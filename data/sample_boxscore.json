@@ -1,0 +1,25 @@
+{
+  "gameId": "0000000001",
+  "homeTeam": {
+    "teamTricode": "DEM",
+    "players": [
+      {
+        "personId": 900001,
+        "name": "Alex Demo",
+        "statistics": {
+          "minutes": "PT30M00.00S",
+          "points": 21,
+          "reboundsTotal": 7,
+          "assists": 5,
+          "blocks": 1,
+          "threePointersMade": 3,
+          "plusMinusPoints": 4
+        }
+      }
+    ]
+  },
+  "awayTeam": {
+    "teamTricode": "SMP",
+    "players": []
+  }
+}
